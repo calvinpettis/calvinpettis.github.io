@@ -23,3 +23,13 @@ background-color: cornflowerblue;
 #blogentry p {
     font-size: 12px;
 }
+
+#blogcontainer {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+#blogcontainer p {
+    background-color: #ebdbb2;
+    padding: 20px;
+}
